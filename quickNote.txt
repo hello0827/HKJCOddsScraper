@@ -1,0 +1,57 @@
+anyInplaySelling 即場, 1 =有, -1=冇
+hadodds: 主客和
+chlodds: 角球
+crsodds: 波膽
+fcsodds: 半場波膽
+fhaodds: 半場主客和
+fhlodds: 半場入球大細
+ftsodds: 第一隊入球
+hdcodds: 讓球
+hfm: 6場?
+hftodds: 半全場
+hhaodds: 讓球主客和
+hilodds: 入球大細
+ooeodds: 入球單雙
+ttgodds: 總入球
+channel: 直播電視頻道
+
+
+
+definedPools:受注項目
+inplayPools: 即場項目
+
+"HAD",主客和
+"FHA",半場主客和
+"CRS",波膽
+"FCS",半場波膽
+"FTS",第一隊入球
+"OOE",入球單雙
+"TTG",總入球
+"HFT",半全場
+"HHA",讓球主客和
+"HDC",讓球
+"HIL",入球大細
+"FHL",半場入球大細
+"CHL",角球
+"NTS", 下一隊?
+
+
+========
+"POOLSTATUS": "Selling","NotSelling"
+    "accumulatedscore": [
+        {
+            "away": "0",
+            "home": "1",
+            "periodstatus": "Interim",
+            "periodvalue": "FirstHalf"
+        }
+    ],
+	
+	    "livescore": {
+        "away": "0",
+        "home": "1"
+    },
+    "matchStatus": "ResultIn",
+	
+	
+    "anyInplaySelling": "1",
